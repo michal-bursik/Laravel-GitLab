@@ -1,5 +1,5 @@
 {
-    "name": "graham-campbell/gitlab",
+    "name": "michal-bursik/laravel-gitlab",
     "description": "GitLab Is A GitLab Bridge For Laravel",
     "keywords": ["laravel", "framework", "gitlab", "php-gitlab-api", "PHP GitLab API", "gitlab bridge", "bridge", "GitLab", "Laravel GitLab", "Laravel-GitLab", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
